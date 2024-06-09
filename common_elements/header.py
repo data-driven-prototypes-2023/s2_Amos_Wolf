@@ -37,7 +37,7 @@ navbar = dbc.Navbar(
             dbc.NavbarToggler(id="navbar-toggler", n_clicks=0),
             dbc.Collapse(
                 [nav, 
-                search_bar,
+                #search_bar,
                 ],
                 id="navbar-collapse",
                 is_open=False,
