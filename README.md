@@ -31,3 +31,7 @@ Once the application is running, you can use the dashboard to:
 
 3. **Explore Rankings:**
     - Check the ranking charts to see how brands perform based on Nutri-Score and Eco-Score. This helps in understanding which brands offer healthier and more environmentally friendly products.
+
+Please try it here:
+
+https://dash-food.onrender.com
