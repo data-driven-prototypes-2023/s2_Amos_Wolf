@@ -1,10 +1,11 @@
 from dash import Dash, html, dcc, Input, Output
 from individual.individual_page import get_individual_page
 from overview.overview import get_overview
-from app import app
+from app import app, server
 import dash_bootstrap_components as dbc
 from common_elements.header import get_header
 import re
+
 
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
