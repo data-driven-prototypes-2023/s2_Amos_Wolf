@@ -14,7 +14,7 @@ The Cookie Dashboard offers an interactive interface to filter, visualize, and e
 -   **Map:** Updates dynamically based on selected filters to show the geographical distribution of products.
 -   **In-Depth Product View:** Click on a product to get detailed information on a separate page, including ingredients, nutritional information, and more.
 -   **Ranking Charts:** Charts that rank brands based on the number of products with specific Nutri-Scores and Eco-Scores, helping users understand brand performance in terms of health and environmental impact.
--   **Data Cleaning:** Utilizes Cohere for real-time data cleaning within the app, ensuring that the displayed data is accurate and up-to-date.
+-   **Data Cleaning:** Utilizes Cohere for real-time data cleaning within the app, ensuring that the displayed data is accurate.
 
 ## Usage
 
@@ -27,7 +27,7 @@ Once the application is running, you can use the dashboard to:
 
 2. **View Detailed Product Information:**
 
-    - Click on any product in the product table to view detailed information on a separate page. This includes ingredients, nutritional values, and other relevant details.
+    - Click on any product in the product table to view detailed information on a separate page. This includes nutritional values, and other relevant details.
 
 3. **Explore Rankings:**
     - Check the ranking charts to see how brands perform based on Nutri-Score and Eco-Score. This helps in understanding which brands offer healthier and more environmentally friendly products.
